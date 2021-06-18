@@ -1,0 +1,80 @@
+<DOCTYPE html>
+<head>
+<mata charset="utf-8">
+<style type="text/css">
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    backgroundposition: center;
+    background-attachment: fixed; 
+    background-color: yellow:;
+    }
+</style>
+</head>
+<body background="C:\Users\Rodrigo\Desktop\COMPUTACION\Proyecto pagina web\Imagenes\Anoche.jpeg">
+<a name="inicio">inicio</a>
+<br>
+<p align="center"><font size="15"><font color="white">Mis cosas favoritas✨
+<br>
+<p align="left"><font color="white"><i>Puedes seguirme</i>                                                                    <img src="C:\Users\Rodrigo\Desktop\COMPUTACION\Proyecto pagina web\Imagenes\Mono.png" width="90"</p>
+<br>
+<p align="left"><font color="white"><i> en mis redes sociales
+<br>
+<p align="Left"><a href="https://www.facebook.com/profile.php?id=100013000479683"><font color="#C8DCDC">Facebook</a>
+<p align="Left"><a href="https://www.instagram.com/r_o_d_ib/"><font color="#C8DCDC ">Instagram</a>
+<p align="center"><font color="#97EEEE">Musica🎶
+<br>
+Mis musicas Favoritas son las siguientes:
+<br>
+<font color="#9FF29F">Johnny B.Goode esta cancion salio en los 80s y sobre sale por su aparicion en la pelicula Volver al futuro 
+<br>
+<video src="C:\Users\Rodrigo\Desktop\COMPUTACION\Proyecto pagina web\Video\john B. Good.mp4" width="640" height="480" controls preload></video>        <video src="C:\Users\Rodrigo\Desktop\COMPUTACION\Proyecto pagina web\Video\Escena.mp4" width="640" height="480" controls preload></video>
+<br>
+<p align="center"><font size="15">Cancion con Letra y Traducido Escena de la pelicula donde sale la Cancion
+<br>
+<hr>
+<p align="center"><font color="#97EEEE">Personaje de Videojuego🎮
+<p align="center"><font color="#F2E09F">Mi personaje Favorito se llama Kirbi                                           <img src="C:\Users\Rodrigo\Desktop\COMPUTACION\Proyecto pagina web\Imagenes\Kirby.png" width="100">
+<br>
+<font color="#9FF29F">Kirby es descrito como una criatura esférica de color rosa que vive en el planeta Pop Star.5​ Su principal habilidad es absorber objetos y enemigos para lanzarlos en forma de estrella,6​ o bien tragárselos y copiar sus habilidades.7​ También es capaz de expandir su cuerpo con aire para sobrevolar el escenario.6​ Desde la primera entrega ha tenido un aspecto amistoso e inocente, y sus juegos han sido diseñados con el objetivo de que cualquier persona pudiera completarlos sin importar su experiencia previa
+<br>
+<div align="center"><img src="C:\Users\Rodrigo\Desktop\COMPUTACION\Proyecto pagina web\Imagenes\GIF.gif" width="600"></div> <div align="center"><img src="C:\Users\Rodrigo\Desktop\COMPUTACION\Proyecto pagina web\Imagenes\Juego.gif" width="600"></div>
+<br>
+<hr>
+<p align="center"><font color="#F2C69F">Comida favorita🍜
+<p align="center"><font color="#AC9FF2">Sin duda alguna Mi comida Favorita son las enchiladas verdes sus combianciones me encanta hay variaciones de las enchiladas 
+<img src="C:\Users\Rodrigo\Desktop\COMPUTACION\Proyecto pagina web\Imagenes\Enchi.jpg" width="600"><img src="C:\Users\Rodrigo\Desktop\COMPUTACION\Proyecto pagina web\Imagenes\tipos2.png" width="600">
+<br>
+<hr>
+<p align="center"><font color="#9FC5F2">¡¡Son poquitas las cosas las que pongo pronto pondre mas gracias por vistar la pagina!!
+<br>
+<font color="#F7A3A9"> <a href="#inicio">ir al inicio</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>

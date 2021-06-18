@@ -1,0 +1,43 @@
+<DOCTYPE html>
+<head>
+<mata charset="utf-8">
+<marquee behavior=alternate><font color="B7C3C4"><font size="50">Call of Duty Warzone</marquee>
+<style type="text/css">
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    backgroundposition: center;
+    background-attachment: fixed; 
+    background-color: yellow:;
+    }
+</style>
+</head>
+<body background="C:\Users\Rodrigo\Desktop\COMPUTACION\Proyecto pagina web\Imagenes\oo7r7vm5ecg41.jpg" text="black" leftmargin="15%" topmargin"15%" marginheight="15%" marginwiddth="15%">
+<p><font color="B7C3C4"><font size="5">Warzone es un videojuego de disparos en primera persona, perteneciente al Battle royale gratuito, lanzado el 10 de marzo de 2020 para PlayStation 4, Xbox One y Microsoft Windows. El juego está disponible en esas plataformas más PlayStation 5 y Xbox Series X|S, y es parte del videojuego de 2019, Call of Duty: Modern Warfare, pero no requiere su compra y se presentó durante la temporada 2 del contenido de Modern Warfare.
+
+Call of Duty: Warzone fue desarrollado por Infinity Ward y Raven Software y publicado por Activision. Warzone permite el combate multijugador en línea entre 150 jugadores, aunque algunos modos de juego por tiempo limitado admiten 200 jugadores. El juego presenta tanto un juego multiplataforma como una progresión multiplataforma entre tres juegos</b></font></p></strong></p><br>
+<div align="center"video</div> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xko40tZdQVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div align="center"video</div> 
+<p align="left"><font color="Red">Este es un audio del atque Aereo en el juego usa audifonos para mayor experiecia</p>
+
+<div align="left"audio</div> <audio src="C:\Users\Rodrigo\Desktop\COMPUTACION\Proyecto pagina web\Audio\Call of duty Warzone ataque aéreo.mp3" autoplay controls></audio>
+<p>Estos son algunos call of duty en existencia</p>
+<ul>
+<li>Call of Duty</li>
+<li>Call of Duty: United Offensive</li>
+<li>Call of Duty: Finest Hour</li>
+<li>Call of Duty 2</li>
+<li>Call of Duty 2: Big Red One</li>
+<li>Call of Duty 3</li>
+<li>Call of Duty 4: Modern Warfare</li>
+<li>Call of Duty 4: Modern Warfare (Nintendo DS)</li>
+<li>Call of Duty: Warzone</li>
+<li>Call of Duty: Black Ops Cold War</li>
+</ul>
+<p align="center"><font color="B7C3C4">¡Warzone es un juego increible!</p>
+</body>
+<p><b>Cursiva<font size="30">Mis Redes Sociales</b></p>
+<p><font size="5"><a href="https://www.instagram.com/r_o_d_ib/"><font color="brown">Instagram</a></marquee>
+<p><font size="5"><a href="https://www.facebook.com/profile.php?id=100013000479683"><font color="brown">Facebook</a></marquee>
+</html>

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Menu</title>
+</head>
+<body background="IMAGENES\33597.jpg">
+<al type="1" start="10" ><font size="5" color="#">
+<li><a href="Proyecto Web 1.html">Proyecto Web 1</a></li>
+<li><a href="Proyecto Web 2.html">Proyecto Web 2</a></li>
+<li><a href="Proyecto Web 3.html">Proyecto Web 3</a></li>
+</font></al>
+
+
+
+</body>
+</html>
+
